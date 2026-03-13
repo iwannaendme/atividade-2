@@ -20,10 +20,8 @@ A pesquisa teórica abrangeu os seguintes padrões:
 
 Foram escolhidos dois padrões para implementação em **Python**:
 
-### 1. Adapter (`adapter_pattern/`)
+### 1. Adapter (`adapter`)
 Resolve o problema de incompatibilidade entre uma classe de cálculo de área legada e uma nova interface de formas geométricas.
-* **Execução:** `python adapter_pattern/formas.py`
 
-### 2. Decorator (`decorator_pattern/`)
+### 2. Decorator (`decorator`)
 Demonstra como adicionar opcionais (leite, açúcar, chantilly) a uma bebida base sem criar uma explosão de subclasses via herança.
-* **Execução:** `python decorator_pattern/cafeteria.py`
